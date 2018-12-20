@@ -1,6 +1,5 @@
 /*
- * This class will manage the goal monitoring and
- * management for the workers, as well as handling multiple managers
+ * Class in control of goal management and submitting final genome.
  */
 public class Tasker {
 

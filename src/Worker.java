@@ -1,7 +1,6 @@
 /*
- * Class for handling single member of the population
- * Tasks such as testing fitness, generating a new member,
- * and handling the initialization part of breeding.
+ * Single worker unit for control of testing a single genome
+ * Class in charge of reproduction and fitness testing.
  */
 public class Worker {
 
