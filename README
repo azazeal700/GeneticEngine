@@ -2,4 +2,7 @@ This is a genetic engine for use with KOS - it will be calculate the
 optimal launch trajectory before communicating with KOS via RPC in order 
 to follow the desired trajectory.
 
+For now the engine is being tasked to guessing a number to prove the 
+concept.
+
 -Will support multi-threading
