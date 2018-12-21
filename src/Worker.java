@@ -1,4 +1,4 @@
-/*
+ /*
  * Single worker unit for control of testing a single genome
  * Class in charge of reproduction and fitness testing.
  * 
@@ -19,5 +19,8 @@ public class Worker {
 	}
 	private void physicsCalculations() {
 		//Runs all the physical calculations and passes it up to simulate()
+	}
+	void process() {
+		//Call other methods and pass out to the manager
 	}
 }
